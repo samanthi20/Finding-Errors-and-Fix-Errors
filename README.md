@@ -129,22 +129,6 @@ submit the corrected code with comments explaining the issues they found and the
 
 
 (next page)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Code4:
 def merge_sort(arr):
     if len(arr) <= 1:
